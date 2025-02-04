@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @matthewbarlund
 - 👀 I’m interested in D&D, videogames, and philosophy.
-- 🌱 I’m currently practicing medium-level Software Engineering.
+- 🌱 I’m currently practicing Web Development.
 - 📫 How to reach me: Discord (djheroboy) would probably be best. Alternatively, email me using matthewbarlund@csu.fullerton.edu
